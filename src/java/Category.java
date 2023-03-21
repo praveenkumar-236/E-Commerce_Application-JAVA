@@ -1,4 +1,4 @@
-package learnprogramming;
+package java;
 
 public class Category {
     private String category_name;

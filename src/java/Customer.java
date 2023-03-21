@@ -1,4 +1,4 @@
-package learnprogramming;
+package java;
 
 import java.util.ArrayList;
 import java.util.HashMap;
